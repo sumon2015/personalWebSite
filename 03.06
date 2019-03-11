@@ -1,0 +1,96 @@
+<NotepadPlus>
+    <Project name="project_01">
+        <Folder name="css">
+            <File name="css\animate.min.css" />
+            <File name="css\font-awesome.min.css" />
+        </Folder>
+        <Folder name="fonts">
+            <File name="fonts\fontawesome-webfont.eot" />
+            <File name="fonts\fontawesome-webfont.svg" />
+            <File name="fonts\fontawesome-webfont.ttf" />
+            <File name="fonts\fontawesome-webfont.woff" />
+            <File name="fonts\FontAwesome.otf" />
+        </Folder>
+        <Folder name="images">
+            <File name="images\bx_loader.gif" />
+            <File name="images\controls.png" />
+            <File name="images\fliker.jpg" />
+            <File name="images\woner.png" />
+        </Folder>
+        <Folder name="js">
+            <File name="js\jquery-1.10.2.min.js" />
+            <File name="js\jquery.bxslider.min.js" />
+            <File name="js\script.js" />
+            <File name="js\wow.min.js" />
+        </Folder>
+        <Folder name="plugins">
+            <File name="plugins\jquery.easing.1.3.js" />
+            <File name="plugins\jquery.fitvids.js" />
+        </Folder>
+        <File name="index.html" />
+        <File name="jquery.bxslider.css" />
+        <File name="responsive.css" />
+        <File name="style.css" />
+    </Project>
+    <Project name="Music World">
+        <Folder name="css">
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\css\font-awesome.css" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\css\font-awesome.min.css" />
+        </Folder>
+        <Folder name="fonts">
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\fonts\fontawesome-webfont.eot" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\fonts\fontawesome-webfont.svg" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\fonts\fontawesome-webfont.ttf" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\fonts\fontawesome-webfont.woff" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\fonts\FontAwesome.otf" />
+        </Folder>
+        <Folder name="images">
+            <Folder name="products">
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\products\giter.png" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\products\harmonium.png" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\products\piano.jpg" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\products\tabula.png" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\products\Thumbs.db" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\products\Veena.png" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\products\violin.png" />
+            </Folder>
+            <Folder name="slider">
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\slider\image (3).jpg" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\slider\image (4).jpg" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\slider\image (5).jpg" />
+                <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\slider\Thumbs.db" />
+            </Folder>
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\bodybg1.jpg" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\border1.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\bx_loader.gif" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\client.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\close.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\controls.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\loading.gif" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\logo1.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\menubg.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\next.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\prev.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\Thumbs.db" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\title.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\titlebg.png" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\images\wwd_logo.png" />
+        </Folder>
+        <Folder name="js">
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\js\jquery-1.10.2.min.js" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\js\jquery.bxslider.min.js" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\js\jquery.lazyload.js" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\js\lightbox.min.js" />
+            <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\js\myJs.js" />
+        </Folder>
+        <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\contact.html" />
+        <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\index.html" />
+        <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\jquery.bxslider.css" />
+        <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\less.css" />
+        <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\lightbox.css" />
+        <File name="F:\Project Work\Complete Project\MusicToneWorld 30.12.2014\style.css" />
+    </Project>
+    <Project name="Project Name" />
+    <Project name="Project Name" />
+    <Project name="Project Name" />
+</NotepadPlus>
